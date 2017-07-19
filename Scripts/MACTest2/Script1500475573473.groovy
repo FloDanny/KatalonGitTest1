@@ -23,3 +23,7 @@ WebUI.openBrowser('https://staging-arena.flowrestling.org')
 
 WebUI.closeBrowser()
 
+WebUI.openBrowser('')
+
+WebUI.closeBrowser()
+
