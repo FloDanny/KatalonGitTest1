@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite1,Firefox 54.0,,2017-07-19 14:06:53,2017-07-19 14:07:07,14.708s,PASSED
+,,,,,,
+Test Cases/Test1ByTRSN,Firefox 54.0,,2017-07-19 14:06:53,2017-07-19 14:07:07,14.476s,PASSED
+openBrowser,Firefox 54.0,,2017-07-19 14:06:54,2017-07-19 14:07:00,6.872s,PASSED
+navigateToUrl,Firefox 54.0,,2017-07-19 14:07:00,2017-07-19 14:07:06,5.719s,PASSED
+switchToWindowTitle,Firefox 54.0,,2017-07-19 14:07:06,2017-07-19 14:07:07,0.496s,PASSED
+click,Firefox 54.0,,2017-07-19 14:07:07,2017-07-19 14:07:07,0.325s,PASSED
+closeBrowser,Firefox 54.0,,2017-07-19 14:07:07,2017-07-19 14:07:07,0.468s,PASSED
