@@ -2,8 +2,8 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2017-07-19T15:02:49</date>
-  <millis>1500494569387</millis>
+  <date>2017-07-19T15:01:09</date>
+  <millis>1500494469961</millis>
   <sequence>0</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -16,20 +16,20 @@
   <property name="id">Test Suites/TestSuite1</property>
 </record>
 <record>
-  <date>2017-07-19T15:02:49</date>
-  <millis>1500494569419</millis>
+  <date>2017-07-19T15:01:10</date>
+  <millis>1500494470009</millis>
   <sequence>1</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Logging run data &amp;apos;hostName&amp;apos; with value &amp;apos;MONEYMAKER$ - MoneyMaker.attlocal.net&amp;apos;</message>
+  <message>Logging run data &amp;apos;hostName&amp;apos; with value &amp;apos;Loading - MoneyMaker.attlocal.net&amp;apos;</message>
   <nestedLevel>0</nestedLevel>
-  <property name="hostName">MONEYMAKER$ - MoneyMaker.attlocal.net</property>
+  <property name="hostName">Loading - MoneyMaker.attlocal.net</property>
 </record>
 <record>
-  <date>2017-07-19T15:02:49</date>
-  <millis>1500494569452</millis>
+  <date>2017-07-19T15:01:10</date>
+  <millis>1500494470019</millis>
   <sequence>2</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -40,8 +40,8 @@
   <property name="os">Windows 10 64bit</property>
 </record>
 <record>
-  <date>2017-07-19T15:02:49</date>
-  <millis>1500494569455</millis>
+  <date>2017-07-19T15:01:10</date>
+  <millis>1500494470021</millis>
   <sequence>3</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -52,8 +52,8 @@
   <property name="hostAddress">192.168.1.134</property>
 </record>
 <record>
-  <date>2017-07-19T15:02:49</date>
-  <millis>1500494569458</millis>
+  <date>2017-07-19T15:01:10</date>
+  <millis>1500494470029</millis>
   <sequence>4</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -64,8 +64,8 @@
   <property name="katalonVersion">4.7.0.2</property>
 </record>
 <record>
-  <date>2017-07-19T15:02:49</date>
-  <millis>1500494569940</millis>
+  <date>2017-07-19T15:01:10</date>
+  <millis>1500494470273</millis>
   <sequence>5</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -80,8 +80,8 @@
   <property name="isOptional">false</property>
 </record>
 <record>
-  <date>2017-07-19T15:02:50</date>
-  <millis>1500494570114</millis>
+  <date>2017-07-19T15:01:10</date>
+  <millis>1500494470373</millis>
   <sequence>6</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -91,8 +91,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:02:50</date>
-  <millis>1500494570337</millis>
+  <date>2017-07-19T15:01:10</date>
+  <millis>1500494470620</millis>
   <sequence>7</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -104,8 +104,8 @@
   <property name="stepIndex">1</property>
 </record>
 <record>
-  <date>2017-07-19T15:02:50</date>
-  <millis>1500494570571</millis>
+  <date>2017-07-19T15:01:11</date>
+  <millis>1500494471021</millis>
   <sequence>8</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -115,8 +115,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:02:50</date>
-  <millis>1500494570581</millis>
+  <date>2017-07-19T15:01:11</date>
+  <millis>1500494471035</millis>
   <sequence>9</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -126,8 +126,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:02:50</date>
-  <millis>1500494570679</millis>
+  <date>2017-07-19T15:01:11</date>
+  <millis>1500494471147</millis>
   <sequence>10</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -137,20 +137,20 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:02:57</date>
-  <millis>1500494577910</millis>
+  <date>2017-07-19T15:01:18</date>
+  <millis>1500494478204</millis>
   <sequence>11</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Logging run data &amp;apos;sessionId&amp;apos; with value &amp;apos;753d1332-fdb8-4855-ac32-5786edce86e7&amp;apos;</message>
+  <message>Logging run data &amp;apos;sessionId&amp;apos; with value &amp;apos;25c360e0-6de4-4846-becc-c66e7ec8846a&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
-  <property name="sessionId">753d1332-fdb8-4855-ac32-5786edce86e7</property>
+  <property name="sessionId">25c360e0-6de4-4846-becc-c66e7ec8846a</property>
 </record>
 <record>
-  <date>2017-07-19T15:02:58</date>
-  <millis>1500494578187</millis>
+  <date>2017-07-19T15:01:18</date>
+  <millis>1500494478382</millis>
   <sequence>12</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -161,8 +161,8 @@
   <property name="browser">Firefox 54.0</property>
 </record>
 <record>
-  <date>2017-07-19T15:02:58</date>
-  <millis>1500494578187</millis>
+  <date>2017-07-19T15:01:18</date>
+  <millis>1500494478383</millis>
   <sequence>13</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -173,8 +173,8 @@
   <property name="platform">Windows 10</property>
 </record>
 <record>
-  <date>2017-07-19T15:02:58</date>
-  <millis>1500494578189</millis>
+  <date>2017-07-19T15:01:18</date>
+  <millis>1500494478384</millis>
   <sequence>14</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -185,8 +185,8 @@
   <property name="seleniumVersion">2.53.0</property>
 </record>
 <record>
-  <date>2017-07-19T15:02:58</date>
-  <millis>1500494578190</millis>
+  <date>2017-07-19T15:01:18</date>
+  <millis>1500494478385</millis>
   <sequence>15</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -197,8 +197,8 @@
   <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</property>
 </record>
 <record>
-  <date>2017-07-19T15:02:58</date>
-  <millis>1500494578191</millis>
+  <date>2017-07-19T15:01:18</date>
+  <millis>1500494478386</millis>
   <sequence>16</sequence>
   <level>PASSED</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -208,8 +208,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:02:58</date>
-  <millis>1500494578191</millis>
+  <date>2017-07-19T15:01:18</date>
+  <millis>1500494478386</millis>
   <sequence>17</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -219,8 +219,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:02:58</date>
-  <millis>1500494578192</millis>
+  <date>2017-07-19T15:01:18</date>
+  <millis>1500494478386</millis>
   <sequence>18</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -232,8 +232,8 @@
   <property name="stepIndex">2</property>
 </record>
 <record>
-  <date>2017-07-19T15:02:58</date>
-  <millis>1500494578203</millis>
+  <date>2017-07-19T15:01:18</date>
+  <millis>1500494478401</millis>
   <sequence>19</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -243,8 +243,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:02:58</date>
-  <millis>1500494578205</millis>
+  <date>2017-07-19T15:01:18</date>
+  <millis>1500494478402</millis>
   <sequence>20</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -254,8 +254,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:04</date>
-  <millis>1500494584137</millis>
+  <date>2017-07-19T15:01:24</date>
+  <millis>1500494484609</millis>
   <sequence>21</sequence>
   <level>PASSED</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -265,8 +265,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:04</date>
-  <millis>1500494584137</millis>
+  <date>2017-07-19T15:01:24</date>
+  <millis>1500494484609</millis>
   <sequence>22</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -276,8 +276,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:04</date>
-  <millis>1500494584138</millis>
+  <date>2017-07-19T15:01:24</date>
+  <millis>1500494484609</millis>
   <sequence>23</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -289,8 +289,8 @@
   <property name="stepIndex">3</property>
 </record>
 <record>
-  <date>2017-07-19T15:03:04</date>
-  <millis>1500494584147</millis>
+  <date>2017-07-19T15:01:24</date>
+  <millis>1500494484627</millis>
   <sequence>24</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -300,8 +300,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:04</date>
-  <millis>1500494584147</millis>
+  <date>2017-07-19T15:01:24</date>
+  <millis>1500494484628</millis>
   <sequence>25</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -311,8 +311,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:04</date>
-  <millis>1500494584780</millis>
+  <date>2017-07-19T15:01:25</date>
+  <millis>1500494485219</millis>
   <sequence>26</sequence>
   <level>PASSED</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -322,8 +322,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:04</date>
-  <millis>1500494584781</millis>
+  <date>2017-07-19T15:01:25</date>
+  <millis>1500494485219</millis>
   <sequence>27</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -333,8 +333,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:04</date>
-  <millis>1500494584781</millis>
+  <date>2017-07-19T15:01:25</date>
+  <millis>1500494485220</millis>
   <sequence>28</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -346,8 +346,8 @@
   <property name="stepIndex">4</property>
 </record>
 <record>
-  <date>2017-07-19T15:03:04</date>
-  <millis>1500494584784</millis>
+  <date>2017-07-19T15:01:25</date>
+  <millis>1500494485231</millis>
   <sequence>29</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -357,8 +357,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:04</date>
-  <millis>1500494584795</millis>
+  <date>2017-07-19T15:01:25</date>
+  <millis>1500494485247</millis>
   <sequence>30</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -368,8 +368,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:04</date>
-  <millis>1500494584795</millis>
+  <date>2017-07-19T15:01:25</date>
+  <millis>1500494485247</millis>
   <sequence>31</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -379,8 +379,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:04</date>
-  <millis>1500494584798</millis>
+  <date>2017-07-19T15:01:25</date>
+  <millis>1500494485253</millis>
   <sequence>32</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -390,8 +390,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:04</date>
-  <millis>1500494584871</millis>
+  <date>2017-07-19T15:01:25</date>
+  <millis>1500494485342</millis>
   <sequence>33</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -401,8 +401,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:04</date>
-  <millis>1500494584872</millis>
+  <date>2017-07-19T15:01:25</date>
+  <millis>1500494485343</millis>
   <sequence>34</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -412,8 +412,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:05</date>
-  <millis>1500494585055</millis>
+  <date>2017-07-19T15:01:25</date>
+  <millis>1500494485692</millis>
   <sequence>35</sequence>
   <level>PASSED</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -423,8 +423,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:05</date>
-  <millis>1500494585056</millis>
+  <date>2017-07-19T15:01:25</date>
+  <millis>1500494485692</millis>
   <sequence>36</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -434,8 +434,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:05</date>
-  <millis>1500494585056</millis>
+  <date>2017-07-19T15:01:25</date>
+  <millis>1500494485692</millis>
   <sequence>37</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -447,8 +447,8 @@
   <property name="stepIndex">5</property>
 </record>
 <record>
-  <date>2017-07-19T15:03:05</date>
-  <millis>1500494585064</millis>
+  <date>2017-07-19T15:01:25</date>
+  <millis>1500494485704</millis>
   <sequence>38</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -458,8 +458,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:05</date>
-  <millis>1500494585549</millis>
+  <date>2017-07-19T15:01:26</date>
+  <millis>1500494486443</millis>
   <sequence>39</sequence>
   <level>PASSED</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -469,8 +469,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:05</date>
-  <millis>1500494585550</millis>
+  <date>2017-07-19T15:01:26</date>
+  <millis>1500494486443</millis>
   <sequence>40</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -480,8 +480,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:05</date>
-  <millis>1500494585550</millis>
+  <date>2017-07-19T15:01:26</date>
+  <millis>1500494486444</millis>
   <sequence>41</sequence>
   <level>PASSED</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -491,8 +491,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:05</date>
-  <millis>1500494585550</millis>
+  <date>2017-07-19T15:01:26</date>
+  <millis>1500494486444</millis>
   <sequence>42</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -502,8 +502,8 @@
   <nestedLevel>0</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:05</date>
-  <millis>1500494585605</millis>
+  <date>2017-07-19T15:01:26</date>
+  <millis>1500494486497</millis>
   <sequence>43</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -518,8 +518,8 @@
   <property name="isOptional">false</property>
 </record>
 <record>
-  <date>2017-07-19T15:03:05</date>
-  <millis>1500494585621</millis>
+  <date>2017-07-19T15:01:26</date>
+  <millis>1500494486520</millis>
   <sequence>44</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -529,8 +529,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:05</date>
-  <millis>1500494585706</millis>
+  <date>2017-07-19T15:01:26</date>
+  <millis>1500494486678</millis>
   <sequence>45</sequence>
   <level>START</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -542,8 +542,8 @@
   <property name="stepIndex">1</property>
 </record>
 <record>
-  <date>2017-07-19T15:03:05</date>
-  <millis>1500494585707</millis>
+  <date>2017-07-19T15:01:26</date>
+  <millis>1500494486693</millis>
   <sequence>46</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -553,8 +553,8 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:05</date>
-  <millis>1500494585707</millis>
+  <date>2017-07-19T15:01:26</date>
+  <millis>1500494486695</millis>
   <sequence>47</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -564,20 +564,20 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:12</date>
-  <millis>1500494592865</millis>
+  <date>2017-07-19T15:01:37</date>
+  <millis>1500494497005</millis>
   <sequence>48</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Logging run data &amp;apos;sessionId&amp;apos; with value &amp;apos;8b8a189e-2f4a-4ff7-898d-cded8dd9e093&amp;apos;</message>
+  <message>Logging run data &amp;apos;sessionId&amp;apos; with value &amp;apos;5ff251c3-13cf-4ed3-83fd-a0d32a2de190&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
-  <property name="sessionId">8b8a189e-2f4a-4ff7-898d-cded8dd9e093</property>
+  <property name="sessionId">5ff251c3-13cf-4ed3-83fd-a0d32a2de190</property>
 </record>
 <record>
-  <date>2017-07-19T15:03:12</date>
-  <millis>1500494592904</millis>
+  <date>2017-07-19T15:01:37</date>
+  <millis>1500494497128</millis>
   <sequence>49</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -588,8 +588,8 @@
   <property name="browser">Firefox 54.0</property>
 </record>
 <record>
-  <date>2017-07-19T15:03:12</date>
-  <millis>1500494592905</millis>
+  <date>2017-07-19T15:01:37</date>
+  <millis>1500494497128</millis>
   <sequence>50</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -600,8 +600,8 @@
   <property name="platform">Windows 10</property>
 </record>
 <record>
-  <date>2017-07-19T15:03:12</date>
-  <millis>1500494592905</millis>
+  <date>2017-07-19T15:01:37</date>
+  <millis>1500494497129</millis>
   <sequence>51</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -612,8 +612,8 @@
   <property name="seleniumVersion">2.53.0</property>
 </record>
 <record>
-  <date>2017-07-19T15:03:12</date>
-  <millis>1500494592906</millis>
+  <date>2017-07-19T15:01:37</date>
+  <millis>1500494497130</millis>
   <sequence>52</sequence>
   <level>RUN_DATA</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -624,30 +624,30 @@
   <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</property>
 </record>
 <record>
-  <date>2017-07-19T15:03:12</date>
-  <millis>1500494592907</millis>
+  <date>2017-07-19T15:01:37</date>
+  <millis>1500494497131</millis>
   <sequence>53</sequence>
   <level>INFO</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Navigating browser to: &amp;apos;https://staging-arena.flowrestling.org&amp;apos;</message>
+  <message>Navigating browser to: &amp;apos;https://staging-arena.flowrestling.com&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:18</date>
-  <millis>1500494598984</millis>
+  <date>2017-07-19T15:01:52</date>
+  <millis>1500494512571</millis>
   <sequence>54</sequence>
-  <level>PASSED</level>
+  <level>FAILED</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Browser is opened with url: &amp;apos;https://staging-arena.flowrestling.org&amp;apos;</message>
+  <message>Unable to open browser with url: &amp;apos;https://staging-arena.flowrestling.com&amp;apos; (Root cause: org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.\nBuild info: version: &amp;apos;2.53.0&amp;apos;, revision: &amp;apos;35ae25b&amp;apos;, time: &amp;apos;2016-03-15 17:00:58&amp;apos;\nSystem info: host: &amp;apos;MoneyMaker&amp;apos;, ip: &amp;apos;192.168.1.134&amp;apos;, os.name: &amp;apos;Windows 10&amp;apos;, os.arch: &amp;apos;amd64&amp;apos;, os.version: &amp;apos;10.0&amp;apos;, java.version: &amp;apos;1.8.0_102&amp;apos;\nDriver info: driver.version: RemoteWebDriver\nCapabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=54.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]\nSession ID: 5ff251c3-13cf-4ed3-83fd-a0d32a2de190)</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:18</date>
-  <millis>1500494598985</millis>
+  <date>2017-07-19T15:01:52</date>
+  <millis>1500494512573</millis>
   <sequence>55</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
@@ -657,66 +657,368 @@
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:18</date>
-  <millis>1500494598985</millis>
+  <date>2017-07-19T15:01:52</date>
+  <millis>1500494512577</millis>
   <sequence>56</sequence>
-  <level>START</level>
+  <logger>com.kms.katalon.core.logging.KeywordLogger</logger>
+  <level>FAILED</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
-  <method>startKeyword</method>
+  <method>logMessage</method>
   <thread>1</thread>
-  <message>Start action : closeBrowser</message>
-  <nestedLevel>1</nestedLevel>
-  <property name="startLine">24</property>
-  <property name="stepIndex">2</property>
+  <message>Test Cases/MACTest2 FAILED because (of) Unable to open browser with url: &amp;apos;https://staging-arena.flowrestling.com&amp;apos; (Root cause: org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.\nBuild info: version: &amp;apos;2.53.0&amp;apos;, revision: &amp;apos;35ae25b&amp;apos;, time: &amp;apos;2016-03-15 17:00:58&amp;apos;\nSystem info: host: &amp;apos;MoneyMaker&amp;apos;, ip: &amp;apos;192.168.1.134&amp;apos;, os.name: &amp;apos;Windows 10&amp;apos;, os.arch: &amp;apos;amd64&amp;apos;, os.version: &amp;apos;10.0&amp;apos;, java.version: &amp;apos;1.8.0_102&amp;apos;\nDriver info: driver.version: RemoteWebDriver\nCapabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=54.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]\nSession ID: 5ff251c3-13cf-4ed3-83fd-a0d32a2de190)</message>
+  <exception>
+    <message>com.kms.katalon.core.exception.StepFailedException: Unable to open browser with url: 'https://staging-arena.flowrestling.com' (Root cause: org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'MoneyMaker', ip: '192.168.1.134', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_102'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=54.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5ff251c3-13cf-4ed3-83fd-a0d32a2de190)</message>
+    <frame>
+      <class>com.kms.katalon.core.keyword.internal.KeywordMain</class>
+      <method>stepFailed</method>
+      <line>28</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain</class>
+      <method>stepFailed</method>
+      <line>49</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain</class>
+      <method>runKeyword</method>
+      <line>27</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword</class>
+      <method>openBrowser</method>
+      <line>81</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword</class>
+      <method>execute</method>
+      <line>67</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.keyword.internal.KeywordExecutor</class>
+      <method>executeKeywordForPlatform</method>
+      <line>53</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords</class>
+      <method>openBrowser</method>
+      <line>81</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$openBrowser</class>
+      <method>call</method>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.CallSiteArray</class>
+      <method>defaultCall</method>
+      <line>48</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.AbstractCallSite</class>
+      <method>call</method>
+      <line>113</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.AbstractCallSite</class>
+      <method>call</method>
+      <line>125</line>
+    </frame>
+    <frame>
+      <class>Script1500475573473</class>
+      <method>run</method>
+      <line>22</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>180</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>106</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>213</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>204</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>183</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>175</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>158</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>runTestCase</method>
+      <line>102</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain$runTestCase$0</class>
+      <method>call</method>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.CallSiteArray</class>
+      <method>defaultCall</method>
+      <line>48</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.AbstractCallSite</class>
+      <method>call</method>
+      <line>113</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.AbstractCallSite</class>
+      <method>call</method>
+      <line>141</line>
+    </frame>
+    <frame>
+      <class>TempTestSuite1500494468512</class>
+      <method>runTestCase_1</method>
+      <line>23</line>
+    </frame>
+    <frame>
+      <class>sun.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke0</method>
+    </frame>
+    <frame>
+      <class>sun.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>62</line>
+    </frame>
+    <frame>
+      <class>sun.reflect.DelegatingMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>43</line>
+    </frame>
+    <frame>
+      <class>java.lang.reflect.Method</class>
+      <method>invoke</method>
+      <line>498</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.reflection.CachedMethod</class>
+      <method>invoke</method>
+      <line>93</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.MetaMethod</class>
+      <method>doMethodInvoke</method>
+      <line>325</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.metaclass.ClosureMetaClass</class>
+      <method>invokeMethod</method>
+      <line>384</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.ScriptBytecodeAdapter</class>
+      <method>invokeMethodOnCurrentN</method>
+      <line>82</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.ScriptBytecodeAdapter</class>
+      <method>invokeMethodOnCurrent0</method>
+      <line>113</line>
+    </frame>
+    <frame>
+      <class>TempTestSuite1500494468512$_run_closure1</class>
+      <method>doCall</method>
+      <line>50</line>
+    </frame>
+    <frame>
+      <class>sun.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke0</method>
+    </frame>
+    <frame>
+      <class>sun.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>62</line>
+    </frame>
+    <frame>
+      <class>sun.reflect.DelegatingMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>43</line>
+    </frame>
+    <frame>
+      <class>java.lang.reflect.Method</class>
+      <method>invoke</method>
+      <line>498</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.reflection.CachedMethod</class>
+      <method>invoke</method>
+      <line>93</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.MetaMethod</class>
+      <method>doMethodInvoke</method>
+      <line>325</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.metaclass.ClosureMetaClass</class>
+      <method>invokeMethod</method>
+      <line>294</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.MetaClassImpl</class>
+      <method>invokeMethod</method>
+      <line>1024</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.Closure</class>
+      <method>call</method>
+      <line>414</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.Closure</class>
+      <method>call</method>
+      <line>430</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.DefaultGroovyMethods</class>
+      <method>each</method>
+      <line>2030</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.DefaultGroovyMethods</class>
+      <method>each</method>
+      <line>2015</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.DefaultGroovyMethods</class>
+      <method>each</method>
+      <line>2056</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.dgm$162</class>
+      <method>invoke</method>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite$PojoMetaMethodSiteNoUnwrapNoCoerce</class>
+      <method>invoke</method>
+      <line>274</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite</class>
+      <method>call</method>
+      <line>56</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.CallSiteArray</class>
+      <method>defaultCall</method>
+      <line>48</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.AbstractCallSite</class>
+      <method>call</method>
+      <line>113</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.AbstractCallSite</class>
+      <method>call</method>
+      <line>125</line>
+    </frame>
+    <frame>
+      <class>TempTestSuite1500494468512</class>
+      <method>run</method>
+      <line>49</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.GroovyShell</class>
+      <method>runScriptOrMainOrTestOrRunnable</method>
+      <line>263</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.GroovyShell</class>
+      <method>run</method>
+      <line>518</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.GroovyShell</class>
+      <method>run</method>
+      <line>507</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>processOnce</method>
+      <line>653</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>run</method>
+      <line>384</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>process</method>
+      <line>370</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>processArgs</method>
+      <line>129</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>main</method>
+      <line>109</line>
+    </frame>
+    <frame>
+      <class>sun.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke0</method>
+    </frame>
+    <frame>
+      <class>sun.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>62</line>
+    </frame>
+    <frame>
+      <class>sun.reflect.DelegatingMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>43</line>
+    </frame>
+    <frame>
+      <class>java.lang.reflect.Method</class>
+      <method>invoke</method>
+      <line>498</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.tools.GroovyStarter</class>
+      <method>rootLoader</method>
+      <line>109</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.tools.GroovyStarter</class>
+      <method>main</method>
+      <line>131</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:18</date>
-  <millis>1500494598986</millis>
+  <date>2017-07-19T15:01:52</date>
+  <millis>1500494512585</millis>
   <sequence>57</sequence>
-  <level>INFO</level>
-  <class>com.kms.katalon.core.logging.KeywordLogger</class>
-  <method>logMessage</method>
-  <thread>1</thread>
-  <message>Closing browser</message>
-  <nestedLevel>1</nestedLevel>
-</record>
-<record>
-  <date>2017-07-19T15:03:19</date>
-  <millis>1500494599168</millis>
-  <sequence>58</sequence>
-  <level>PASSED</level>
-  <class>com.kms.katalon.core.logging.KeywordLogger</class>
-  <method>logMessage</method>
-  <thread>1</thread>
-  <message>Browser is closed</message>
-  <nestedLevel>1</nestedLevel>
-</record>
-<record>
-  <date>2017-07-19T15:03:19</date>
-  <millis>1500494599168</millis>
-  <sequence>59</sequence>
-  <level>END</level>
-  <class>com.kms.katalon.core.logging.KeywordLogger</class>
-  <method>endKeyword</method>
-  <thread>1</thread>
-  <message>End action : closeBrowser</message>
-  <nestedLevel>1</nestedLevel>
-</record>
-<record>
-  <date>2017-07-19T15:03:19</date>
-  <millis>1500494599168</millis>
-  <sequence>60</sequence>
-  <level>PASSED</level>
-  <class>com.kms.katalon.core.logging.KeywordLogger</class>
-  <method>logMessage</method>
-  <thread>1</thread>
-  <message>Test Cases/MACTest2</message>
-  <nestedLevel>1</nestedLevel>
-</record>
-<record>
-  <date>2017-07-19T15:03:19</date>
-  <millis>1500494599169</millis>
-  <sequence>61</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
   <method>endTest</method>
@@ -725,9 +1027,20 @@
   <nestedLevel>0</nestedLevel>
 </record>
 <record>
-  <date>2017-07-19T15:03:19</date>
-  <millis>1500494599182</millis>
-  <sequence>62</sequence>
+  <date>2017-07-19T15:01:53</date>
+  <millis>1500494513747</millis>
+  <sequence>58</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is not reachable. Browser may have been closed already.</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2017-07-19T15:01:53</date>
+  <millis>1500494513786</millis>
+  <sequence>59</sequence>
   <level>END</level>
   <class>com.kms.katalon.core.logging.KeywordLogger</class>
   <method>endSuite</method>
