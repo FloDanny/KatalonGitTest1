@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuite1" time="21" tests="2" failures="0" errors="0">
+   <testsuite name="TestSuite1" tests="2" failures="0" errors="0" time="21" timestamp="2017-07-20 12:51:44" hostname="MONEYMAKER$ - MoneyMaker.attlocal.net" id="Test Suites/TestSuite1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Loading\\git\\KatalonGitTest1\\Reports\\TestSuite1\\20170720_125143"/>
+         <property name="logFiles" value="C:\\Users\\Loading\\git\\KatalonGitTest1\\Reports\\TestSuite1\\20170720_125143\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="MONEYMAKER$ - MoneyMaker.attlocal.net"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="4.7.0.2"/>
+         <property name="browser" value="Chrome 59.0.3071.115"/>
+         <property name="hostAddress" value="192.168.1.134"/>
+         <property name="sessionId" value="73c1d6dbfd0a96672350a59399906770"/>
+         <property name="seleniumVersion" value="2.53.0"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Test1ByTRSN" classname="Test Cases/Test1ByTRSN" status="PASSED">
+         <system-out><![CDATA[2017-07-20 12:51:45 - [TEST_CASE][PASSED] - Test Cases/Test1ByTRSN: Test Cases/Test1ByTRSN
+
+2017-07-20 12:51:45 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2017-07-20 12:51:48 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2017-07-20 12:51:48 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://www.flowrestling.org/' successfully
+
+2017-07-20 12:51:55 - [MESSAGE][PASSED] - Navigate to 'http://www.flowrestling.org/' successfully
+
+2017-07-20 12:51:55 - [TEST_STEP][PASSED] - switchToWindowTitle: Switched to window with title: 'FloWrestling'
+
+2017-07-20 12:51:55 - [MESSAGE][PASSED] - Switched to window with title: 'FloWrestling'
+
+2017-07-20 12:51:55 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_FloWrestling/a_Events' is clicked on
+
+2017-07-20 12:51:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_FloWrestling/a_Events' is clicked on
+
+2017-07-20 12:51:56 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2017-07-20 12:51:57 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/MACTest2" classname="Test Cases/MACTest2" status="PASSED">
+         <system-out><![CDATA[2017-07-20 12:51:57 - [TEST_CASE][PASSED] - Test Cases/MACTest2: Test Cases/MACTest2
+
+2017-07-20 12:51:57 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'https://staging-arena.flowrestling.org'
+
+2017-07-20 12:52:02 - [MESSAGE][PASSED] - Browser is opened with url: 'https://staging-arena.flowrestling.org'
+
+2017-07-20 12:52:02 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2017-07-20 12:52:03 - [MESSAGE][PASSED] - Browser is closed
+
+2017-07-20 12:52:03 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2017-07-20 12:52:05 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2017-07-20 12:52:05 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2017-07-20 12:52:06 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2017-07-20 12:51:44 - [TEST_SUITE][PASSED] - TestSuite1: Test Cases/MACTest2]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
